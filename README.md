@@ -1,66 +1,75 @@
 # 🧪 QA Portfolio
 
-This repository showcases my Quality Assurance work and demonstrates how I approach testing in practice. It contains structured documentation from real web-based e-commerce applications, including test plans, test cases, test scenarios, bug reports, and final test summaries.
+This repository presents my **Quality Assurance work** with structured documentation for web-based e-commerce projects. It demonstrates my approach to testing, including **test planning, execution, bug reporting, and final reporting**.  
 
-I’m passionate about delivering reliable, functional, and user-friendly software. My QA mindset focuses on attention to detail, understanding user behavior, and communicating defects clearly within Agile workflows.
+My QA mindset focuses on attention to detail, understanding user behavior, and communicating issues clearly within Agile workflows.  
 
----
-
-## 👋 About Me
-
-I'm not yet a master in QA testing, but previously I worked widely in penetration testing, which gave me a deep understanding of how systems behave, how issues can appear in unexpected ways, and how to think critically about software. This experience motivates me to approach QA with care and curiosity, learning continuously while ensuring applications are reliable, usable, and functional.
+Previously, I worked widely in penetration testing, which helped me develop a **deep understanding of system behavior and edge cases**. This experience motivates me to approach QA thoughtfully, continuously learning while ensuring applications are functional, reliable, and user-friendly.
 
 ---
 
-## 📁 Projects
+## 📁 Projects Overview
 
-### 🔹 Allegro Sandbox
-An e-commerce marketplace platform tested to validate core user flows and business functionality.
+<details>
+<summary>🔹 Allegro Sandbox</summary>
 
-- 📄 [Test Plan](allegro-sandbox/test-plan.md)
-- 🧪 [Test Cases](allegro-sandbox/test-cases.md)
-- 🐞 [Bug Report](allegro-sandbox/bug-report.md)
-- 📊 [Final Test Report](allegro-sandbox/final-report.md)
+An e-commerce marketplace tested to validate key user flows and business functionality.
 
-**What I tested**
-- User login and authentication
-- Product search and filtering
-- Product details and availability
-- Cart behavior
+- 📄 [Test Plan](allegro-sandbox/test-plan.md)  
+- 🧪 [Test Cases](allegro-sandbox/test-cases.md)  
+- 🐞 [Bug Report](allegro-sandbox/bug-report.md)  
+- 📊 [Final Test Report](allegro-sandbox/final-report.md)  
+
+**Key Testing Areas**
+- User login and authentication  
+- Product search and filtering  
+- Product details and availability  
+- Cart operations  
 - Checkout process
 
----
+</details>
 
-### 🔹 Generic Shop (TestArmy)
-An online shop application tested with focus on the shopping journey and checkout logic.
+<details>
+<summary>🔹 Generic Shop (TestArmy)</summary>
 
-- 📄 [Test Plan](generic-shop/test-plan.md)
-- 🧩 [Test Scenarios & Test Cases](generic-shop/test-scenarios.md)
-- 🐞 [Bug Report](generic-shop/bug-report.md)
-- 📊 [Summary Report](generic-shop/summary-report.md)
+Online shop application tested for shopping flow, cart behavior, and checkout logic.
 
-**What I tested**
-- Browsing products and categories
-- Adding, removing, and updating items in the cart
-- Checkout validation and input handling
-- Error handling for incorrect or missing user input
+- 📄 [Test Plan](generic-shop/test-plan.md)  
+- 🧩 [Test Scenarios & Test Cases](generic-shop/test-scenarios.md)  
+- 🐞 [Bug Report](generic-shop/bug-report.md)  
+- 📊 [Summary Report](generic-shop/summary-report.md)  
+
+**Key Testing Areas**
+- Browsing products and categories  
+- Adding, removing, and updating cart items  
+- Checkout validation  
+- Handling invalid or missing input
+
+</details>
 
 ---
 
 ## 🛠 Skills Demonstrated
 
-- Manual functional testing  
-- Test case and scenario design  
-- Bug reporting with clear reproduction steps  
-- Test planning and reporting  
-- Web application testing  
-- Working within Agile / Scrum teams  
-- Advanced Python for automation support  
-- REST API testing and validation  
+| Category | Skills |
+|----------|-------|
+| Manual Testing | Functional testing, exploratory testing, regression testing |
+| Test Design | Test plan, test case, scenario design |
+| Reporting | Bug reporting, reproduction steps, risk assessment |
+| Tools | Jira, Trello, Zephyr, qTest, Confluence, Chrome DevTools |
+| Automation Support | Basic Python, Selenium, Robot Framework, REST API testing |
+| Workflow | Agile/Scrum, communication, documentation |
 
 ---
 
-## 🎯 Why This Portfolio
+## 🎯 Portfolio Objective
 
-This portfolio reflects my practical work as a QA Tester and shows how I apply analytical thinking, curiosity, and structured testing methodology. It demonstrates my ability to identify defects, document them clearly, and contribute effectively to development teams, while continuing to grow and learn as a QA professional.
+This portfolio reflects **practical QA experience**, showcasing my ability to:
+
+- Identify defects and document them clearly  
+- Think from a user perspective  
+- Ensure stability and usability of web applications  
+- Collaborate effectively in Agile teams  
+
+It demonstrates both my **analytical mindset from prior penetration testing** and my **growing expertise in QA**, making me ready to contribute as a QA team member.
 
