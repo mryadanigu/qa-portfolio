@@ -1,15 +1,21 @@
 # 🧪 QA Portfolio
 
-This repository contains my Quality Assurance work from testing real web-based e-commerce applications. It shows how I approach testing in practice — from understanding requirements, planning test coverage, executing tests, and reporting defects, to summarizing results clearly for stakeholders.
+This repository showcases my Quality Assurance work and demonstrates how I approach testing in practice. It contains structured documentation from real web-based e-commerce applications, including test plans, test cases, test scenarios, bug reports, and final test summaries.
 
-The projects here reflect my day-to-day QA mindset: paying attention to details, thinking from a user’s perspective, and communicating issues in a clear and structured way while working within an Agile environment.
+I’m passionate about delivering reliable, functional, and user-friendly software. My QA mindset focuses on attention to detail, understanding user behavior, and communicating defects clearly within Agile workflows.
+
+---
+
+## 👋 About Me
+
+I'm not yet a master in QA testing, but previously I worked widely in penetration testing, which gave me a deep understanding of how systems behave, how issues can appear in unexpected ways, and how to think critically about software. This experience motivates me to approach QA with care and curiosity, learning continuously while ensuring applications are reliable, usable, and functional.
 
 ---
 
 ## 📁 Projects
 
 ### 🔹 Allegro Sandbox
-An e-commerce marketplace platform tested to verify core user flows and business functionality.
+An e-commerce marketplace platform tested to validate core user flows and business functionality.
 
 - 📄 [Test Plan](allegro-sandbox/test-plan.md)
 - 🧪 [Test Cases](allegro-sandbox/test-cases.md)
@@ -36,23 +42,25 @@ An online shop application tested with focus on the shopping journey and checkou
 **What I tested**
 - Browsing products and categories
 - Adding, removing, and updating items in the cart
-- Checkout flow and validations
-- Handling incorrect or missing user input
+- Checkout validation and input handling
+- Error handling for incorrect or missing user input
 
 ---
 
-## 🛠 Skills Shown in This Portfolio
+## 🛠 Skills Demonstrated
 
-- Creating clear and practical test plans  
-- Designing meaningful test cases and scenarios  
-- Executing manual and exploratory tests  
-- Writing understandable and reproducible bug reports  
-- Summarizing test results and risks  
-- Testing web applications in Agile teams  
+- Manual functional testing  
+- Test case and scenario design  
+- Bug reporting with clear reproduction steps  
+- Test planning and reporting  
+- Web application testing  
+- Working within Agile / Scrum teams  
+- Advanced Python for automation support  
+- REST API testing and validation  
 
 ---
 
 ## 🎯 Why This Portfolio
 
-This portfolio reflects how I work as a QA Engineer. It’s focused on real testing tasks, real decisions, and real outcomes — not just theory. My goal is always to help deliver software that works reliably and makes sense to the end user.
+This portfolio reflects my practical work as a QA Tester and shows how I apply analytical thinking, curiosity, and structured testing methodology. It demonstrates my ability to identify defects, document them clearly, and contribute effectively to development teams, while continuing to grow and learn as a QA professional.
 
