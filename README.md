@@ -57,7 +57,7 @@ Online shop application tested for shopping flow, cart behavior, and checkout lo
 | Test Design | Test plan, test case, scenario design |
 | Reporting | Bug reporting, reproduction steps, risk assessment |
 | Tools | Jira, Trello, Zephyr, qTest, Confluence, Chrome DevTools |
-| Automation Support | Basic Python, Selenium, Robot Framework, REST API testing |
+| Automation Support | Advanced Python, Selenium, Robot Framework, REST API testing |
 | Workflow | Agile/Scrum, communication, documentation |
 
 ---
